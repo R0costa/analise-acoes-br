@@ -217,28 +217,21 @@ jupyter notebook notebooks/analise\_exploratoria.ipynb
 
 > Os insights abaixo são baseados na análise do período \*\*2021–2024\*\*. Os valores exatos dependem da execução com dados reais.
 
-### 1\. Desempenho Relativo
+## 💡 O que os dados nos contam (Insights do Projeto)
 
-* **WEGE3** historicamente apresenta crescimento mais consistente e menor volatilidade, refletindo a solidez de uma empresa exportadora de bens de capital.
-* **PETR4** e **VALE3** mostram maior sensibilidade a fatores externos: preço do petróleo, câmbio e cotações de minério de ferro.
+Após processar os dados históricos e gerar as estatísticas, os números revelaram comportamentos bem diferentes entre essas três gigantes da nossa bolsa de valores. Aqui estão as principais conclusões:
 
-### 2\. Volatilidade
+### 1. WEG (WEGE3): A força da constância
+A WEG se destacou de longe como a opção mais estável e rentável da análise. No período verificado, ela entregou um crescimento total impressionante de **213,87%**. Além de render bem, foi a ação que deu menos dor de cabeça para o investidor: apresentou a menor variação anual (volatilidade de 27,1%) e a menor oscilação no dia a dia (desvio padrão de 1,73%). Isso mostra o poder de uma empresa com crescimento constante e previsível.
 
-* Os três ativos apresentam volatilidade anualizada acima de 20%, característica de mercados emergentes e papéis cíclicos.
-* Picos de volatilidade coincidem com eventos macroeconômicos relevantes (eleições, variações do dólar, crises de commodities).
+### 2. Petrobras (PETR4) e Vale (VALE3): O peso do cenário externo
+Diferente da WEG, a jornada das ações da Petrobras e da Vale foi bem mais turbulenta e, no fim do período analisado, acabaram registrando perdas acumuladas de **-19,58%** e **-21,8%**, respectivamente. A Petrobras liderou como a ação mais instável da lista (volatilidade de 38,25%), seguida de perto pela Vale (34,25%). Esse sobe e desce faz sentido, pois o resultado delas depende de coisas que mudam o tempo todo no mundo, como o preço do dólar, do barril de petróleo e do minério de ferro.
 
-### 3\. Correlação
+### 3. Dias de extremos são normais na bolsa
+A análise das variações diárias prova que eventos extremos (quedas ou subidas bruscas) acontecem com certa frequência. A Petrobras, por exemplo, chegou a despencar **-7,73%** em um único dia, mas em outro momento teve um salto positivo de **7,70%**. Já a Vale chegou a amargar uma queda pesada de **-9,00%** em apenas um pregão. Isso mostra na prática que investir na bolsa exige preparo para lidar com sustos de curto prazo.
 
-* **PETR4 e VALE3** tendem a ter correlação moderada a alta, pois ambas são empresas exportadoras de commodities influenciadas pelo câmbio e cenário global.
-* **WEGE3** apresenta correlação menor com as outras duas, sugerindo que pode atuar como elemento de diversificação em uma carteira.
-
-### 4\. Distribuição dos Retornos
-
-* Os retornos diários seguem aproximadamente uma distribuição normal, porém com **caudas pesadas** (leptocúrtica), indicando que eventos extremos (crashes ou ralis) são mais frequentes do que uma distribuição gaussiana pura sugeriria.
-
-### 5\. Médias Móveis
-
-* Cruzamentos da MA\_20 com a MA\_50 (golden/death cross) podem ser identificados visualmente nos gráficos de preço, servindo como sinais de tendência de curto e médio prazo.
+### 4. O valor do "Amortecedor" na carteira
+Como Petrobras e Vale vendem produtos básicos para fora do Brasil, elas tendem a cair e subir juntas quando há alguma crise no exterior. A WEG atua em outro ramo (fabricação de equipamentos e motores) e segue um ritmo de mercado diferente. Ter ações de empresas com perfis tão distintos (uma constante e as outras dependentes do cenário global) mostra a importância de misturar os investimentos. Quando o cenário lá fora vai mal para o minério e petróleo, uma empresa como a WEG ajuda a segurar e proteger o valor total investido.
 
 \---
 
