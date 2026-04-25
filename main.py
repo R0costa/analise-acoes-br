@@ -33,7 +33,7 @@ from src.visualizer import generate_all_charts
 TICKERS = ["WEGE3.SA", "PETR4.SA", "VALE3.SA"]
 
 # Período de análise (aproximadamente 3 anos)
-START_DATE = "2021-01-01"
+START_DATE]] = "2022-01-03"
 END_DATE = datetime.today().strftime("%Y-%m-%d")
 
 # Pastas de saída
