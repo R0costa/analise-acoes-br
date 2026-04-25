@@ -1,0 +1,19 @@
+# ──────────────────────────────────────────────────────────────
+# requirements.txt
+# Projeto: Análise Exploratória do Mercado de Ações Brasileiro
+# ──────────────────────────────────────────────────────────────
+
+# Coleta de dados financeiros
+yfinance>=0.2.40
+
+# Manipulação e análise de dados
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Visualização de dados
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Notebooks interativos (opcional, para exploração)
+jupyter>=1.0.0
+ipykernel>=6.0.0
